@@ -1,5 +1,13 @@
 # 💫 About Me:
-🦇 Junior Web Developer  <br>⚛️ React | JavaScript | CSS | Node.js | Express.js  <br>🌱 Open to internships & junior roles<br><br>
+
+Final year Computer Science student focused on Front-End and Full-Stack Software Development.
+
+I enjoy building responsive, user-centric web applications using modern JavaScript ecosystems.
+
+🚀 Main Project: SignalFM — A full-stack music discovery platform built with React, Node.js, and Firebase, featuring Spotify Web API integration and a custom server-side recommendation ranking system.
+
+
+<br>⚛️ React | JavaScript | CSS | Node.js | Express.js  <br>🌱 Open to internships & junior roles<br><br>
 
 
 ## 🌐 Socials:
