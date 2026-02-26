@@ -7,7 +7,7 @@ I enjoy building responsive, user-centric web applications using modern JavaScri
 🚀 Main Project: SignalFM — A full-stack music discovery platform built with React, Node.js, and Firebase, featuring Spotify Web API integration and a custom server-side recommendation ranking system.
 
 
-<br>⚛️ React | JavaScript | CSS | Node.js | Express.js  <br>🌱 Open to internships & junior roles<br><br>
+<br>⚛️ JavaScript | React | Node.js | Express | Firebase | REST APIs | Git  <br>🌱 Open to graduate software engineering opportunities<br><br>
 
 
 ## 🌐 Socials:
