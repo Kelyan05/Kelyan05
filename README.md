@@ -6,9 +6,12 @@ I enjoy building responsive, user-centric web applications using modern JavaScri
 
 🚀 Main Project: SignalFM — A full-stack music discovery platform built with React, Node.js, and Firebase, featuring Spotify Web API integration and a custom server-side recommendation ranking system.
 
+🛠️ Tech Stack
 
-<br>⚛️ JavaScript | React | Node.js | Express | Firebase | REST APIs | Git  <br>🌱 Open to graduate software engineering opportunities<br><br>
-
+Frontend: React, HTML5, CSS3
+Backend: Node.js, Express.js, REST APIs
+Core: Data Structures & Algorithms, System Design, Performance Optimisation
+Tools: Firebase, Git, Postman
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darrelkelyan@outlook.com) 
