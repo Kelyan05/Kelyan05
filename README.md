@@ -1,10 +1,23 @@
+Hi, I'm Kelyan 👋
+
+🎓 Final Year Computer Science Student
+💻 Full-Stack Developer (React, Node.js)
+📍 London, UK
+🌱 Open to Graduate Software Engineering Opportunities
+
 # 💫 About Me:
 
-Final year Computer Science student focused on Front-End and Full-Stack Software Development.
+I’m a final-year Computer Science student with a strong interest in building scalable, user-focused web applications.
 
-I enjoy building responsive, user-centric web applications using modern JavaScript ecosystems.
+I enjoy working across the full stack, with a particular focus on backend systems, performance optimisation, and system design.
 
-🚀 Main Project: SignalFM — A full-stack music discovery platform built with React, Node.js, and Firebase, featuring Spotify Web API integration and a custom server-side recommendation ranking system.
+🎧 SignalFM — Music Discovery & Recommendation Platform
+-Built a full-stack application using React, Node.js, Express, and Firebase
+-Designed a hybrid recommendation system (content-based + collaborative filtering)
+-Implemented a cache-first strategy to improve performance and reduce API calls
+-Integrated Spotify Web API for real-time music data
+-Structured backend using controller–service–middleware architecture
+🔗 https://github.com/Kelyan05/SignalFM
 
 🛠️ Tech Stack
 
