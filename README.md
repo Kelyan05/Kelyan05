@@ -1,23 +1,31 @@
 Hi, I'm Kelyan 👋
 
-🎓 Final Year Computer Science Student
-💻 Full-Stack Developer (React, Node.js)
-📍 London, UK
-🌱 Open to Graduate Software Engineering Opportunities
+🚀 Final-Year Computer Science Student | Full-Stack Engineer  
+💡 Focused on backend systems, performance, and scalable architectures  
+📍 London, UK | Open to Graduate Software Engineering Roles (2026)
 
 # 💫 About Me:
 
-I’m a final-year Computer Science student with a strong interest in building scalable, user-focused web applications.
+I’m a final-year Computer Science student with a strong interest in building scalable, user-focused applications.
 
-I enjoy working across the full stack, with a particular focus on backend systems, performance optimisation, and system design.
+I enjoy working across the full stack, with a particular focus on backend systems, API design, and performance. I’m especially interested in how systems are structured, optimised, and deployed in real-world environments.
 
-🎧 SignalFM — Music Discovery & Recommendation Platform
--Built a full-stack application using React, Node.js, Express, and Firebase
--Designed a hybrid recommendation system (content-based + collaborative filtering)
--Implemented a cache-first strategy to improve performance and reduce API calls
--Integrated Spotify Web API for real-time music data
--Structured backend using controller–service–middleware architecture
+🎧 SignalFM — Music Discovery & Recommendation Platform  
 🔗 https://github.com/Kelyan05/SignalFM
+
+• Built a full-stack platform using React, Node.js, Express, and Firebase  
+• Designed a hybrid recommendation system (content-based + collaborative filtering)  
+• Implemented caching to reduce API calls and improve response times  
+• Integrated Spotify Web API for real-time music data  
+• Structured backend using controller–service–middleware architecture  
+
+## 🧠 Key Strengths
+
+• Strong backend focus: API design, architecture, and performance optimisation
+• Solid understanding of data structures and system design fundamentals
+• Experience building full-stack applications end-to-end
+• Comfortable working with REST APIs, databases, and asynchronous systems
+• Familiar with containerisation (Docker) and basic CI/CD workflows
 
 🛠️ Tech Stack
 
