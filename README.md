@@ -19,6 +19,11 @@ I enjoy working across the full stack, with a particular focus on backend system
 • Integrated Spotify Web API for real-time music data  
 • Structured backend using controller–service–middleware architecture  
 
+Hyjacked - Full-stack trading platform with real-time WebSocket data feeds, AI-powered trade analysis, and live paper trading engine
+🔗 https://github.com/SleepyXm/hyjacked
+Collaborated with a peer
+Currently underdevelopment, will provide more information in future
+
 ## 🧠 Key Strengths
 
 • Strong backend focus: API design, architecture, and performance optimisation
