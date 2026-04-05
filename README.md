@@ -21,13 +21,13 @@ I enjoy working across the full stack, with a particular focus on backend system
 
 🔀 HyJacked — Real-Time Trading Platform
 🔗 https://github.com/SleepyXm/hyjacked
-Collaborating with a university peer
+   Collaborating with a university peer
 
-Built a full-stack trading platform using Next.js, FastAPI, and Python
-Implemented real-time candlestick and line charts with live WebSocket data feeds and automatic candle updates
-Designed a paper trading engine with live P&L tracking, spread calculation, and price-line visualisation on charts
-Architected a multi-interval stock data API supporting 8 timeframes with both REST and WebSocket endpoints
-Integrated an asset search system with intraday chart previews for discovered symbols
+• Built a full-stack trading platform using Next.js, FastAPI, and Python
+• Implemented real-time candlestick and line charts with live WebSocket data feeds and automatic candle updates
+• Designed a paper trading engine with live P&L tracking, spread calculation, and price-line visualisation on charts
+• Architected a multi-interval stock data API supporting 8 timeframes with both REST and WebSocket endpoints
+• Integrated an asset search system with intraday chart previews for discovered symbols
 
 ## 🧠 Key Strengths
 
