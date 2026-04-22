@@ -10,14 +10,31 @@ I’m a final-year Computer Science student with a strong interest in building s
 
 I enjoy working across the full stack, with a particular focus on backend systems, API design, and performance. I’m especially interested in how systems are structured, optimised, and deployed in real-world environments.
 
-🎧 SignalFM — Music Discovery & Recommendation Platform  
-🔗 https://github.com/Kelyan05/SignalFM
+## 🎧 SignalFM — Personalised Music Streaming Platform
 
-• Built a full-stack platform using React, Node.js, Express, and Firebase  
-• Designed a hybrid recommendation system (content-based + collaborative filtering)  
-• Implemented caching to reduce API calls and improve response times  
-• Integrated Spotify Web API for real-time music data  
-• Structured backend using controller–service–middleware architecture  
+A full-stack music streaming web app with a real-time, event-driven recommendation engine built from scratch.
+
+SignalFM captures listening behaviour — every play, skip, and like — as weighted engagement signals and uses them to continuously personalise music recommendations. The weighting schema (play: +1, skip: −2, like: +3) is grounded in the implicit feedback literature and feeds a server-side ranking layer on top of the Spotify Recommendations API. Recommendations update in real time: each user interaction invalidates the cache and seeds the next request with fresh engagement data.
+
+**Stack:** React 18 · Node.js · Express · Firebase Firestore · Spotify Web API + Playback SDK · Render
+
+**Architecture highlights**
+- Domain-driven custom hook architecture on the frontend (`useTrackEvents`, `usePlaylists`, `useRecommendations`, `useSpotifyPlayer`) — clean separation of presentation and business logic
+- Controller–service–middleware pattern on the backend with transactional Firestore writes for engagement scoring
+- Backend-for-Frontend (BFF) OAuth 2.0 flow — Spotify credentials never touch the client
+- Server-side recommendation cache with per-interaction invalidation
+- Global state management via React Context (`PlayerContext`, `LikedTracksProvider`) — single source of truth for playback state across all components
+
+**Features**
+- In-browser Spotify playback via Web Playback SDK
+- Real-time personalised recommendations with genre filtering
+- Playlist management with Firestore real-time sync
+- Persistent queue with FIFO playback and drag-reorder (roadmap)
+- Spotify-style autoplay drawing from the recommendation engine
+- Liked Songs collection as a first-class playlist entity
+
+**Live demo:** https://signalfm-site.onrender.com
+*(Requires a Spotify Premium account for playback)*
 
 🔀 HyJacked — Real-Time Trading Platform
 🔗 https://github.com/SleepyXm/hyjacked
