@@ -23,7 +23,7 @@ The recommendation engine captures every play, skip, and like as a weighted enga
 
 ---
 
-### [HyJacked](https://github.com/SleepyXm/hyjacked)
+### [HyJacked](https://github.com/SleepyXm/hyjacked) (Currently working on)
 
 A real-time paper trading platform built with a university peer, combining a Next.js frontend with a Python/FastAPI backend.
 
