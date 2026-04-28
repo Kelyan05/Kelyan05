@@ -1,6 +1,6 @@
 # Kelyan Djomo
 
-Final-year CS student at the University of Westminster, graduating 2026. I build full-stack applications with a focus on backend architecture, API design, and systems that are easy to reason about. Currently open to graduate software engineering roles in London.
+Final-year CS student, graduating 2026. I build full-stack applications with a focus on backend architecture, API design, and systems that are easy to reason about. Currently open to graduate software engineering roles in London.
 
 📍 London, UK · darrelkelyan@outlook.com · [LinkedIn](https://linkedin.com/in/your-link)
 
