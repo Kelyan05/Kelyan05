@@ -2,7 +2,7 @@
 
 Final-year CS student, graduating 2026. I build full-stack applications with a focus on frontend and backend architecture, API design, and systems that are easy to reason about. Currently open to graduate software engineering roles in London.
 
-📍 London, UK · darrelkelyan@outlook.com · [LinkedIn](https://linkedin.com/in/your-link)
+📍 London, UK · darrelkelyan@outlook.com · [LinkedIn](https://www.linkedin.com/in/kelyan-djomo/)
 
 ---
 
