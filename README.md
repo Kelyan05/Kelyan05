@@ -1,44 +1,51 @@
-# Kelyan Djomo
+# Hi, I'm Kelyan 👋
 
-Final-year CS student, graduating 2026. I build full-stack applications with a focus on frontend and backend architecture, API design, and systems that are easy to reason about. Currently open to graduate software engineering roles in London.
+**Graduate Software Engineer** · Full-stack developer · BSc (Hons) Computer Science, University of Westminster (2026)
 
-📍 London, UK · darrelkelyan@outlook.com · [LinkedIn](https://www.linkedin.com/in/kelyan-djomo/)
+I build production web applications end to end — real-time systems, third-party API integrations, and backends that are easy to reason about. Currently **open to graduate Software Engineer roles in London** (hybrid/remote friendly).
 
----
-
-## Projects
-
-### [SignalFM](https://github.com/Kelyan05/SignalFM) · [Live demo ↗](https://signalfm-site.onrender.com)
-
-A full-stack music streaming platform with a real-time, event-driven recommendation engine. Built as my Computer Science FYP.
-
-The recommendation engine captures every play, skip, and like as a weighted engagement signal — play: +1, skip: −2, like: +3 — grounded in the implicit feedback model by Hu, Koren & Volinsky (2008). Each interaction triggers a server-side cache invalidation so the next recommendation request reflects fresh behavioural data immediately.
-
-`React 18` `Node.js` `Express` `Firebase Firestore` `Spotify SDK` `Render`
-
-- Domain-driven custom hook architecture (`useTrackEvents`, `useRecommendations`, `useSpotifyPlayer`) — largest component reduced from ~200 lines of mixed logic to under 50 lines of pure presentation
-- BFF OAuth 2.0 flow: backend exchanges the Spotify authorisation code, tokens never touch the client
-- Global playback state via React Context (`PlayerContext`, `LikedTracksProvider`) — single source of truth across all components
-- 63 functional test cases across 9 feature areas; 98% pass rate on first submission
+📍 London, UK  ·  ✉️ [darrelkelyan@outlook.com](mailto:darrelkelyan@outlook.com)  ·  💼 [LinkedIn](https://www.linkedin.com/in/kelyan-djomo/)
 
 ---
 
-### [HyJacked](https://github.com/SleepyXm/hyjacked) (Currently working on)
+### 🛠️ Tech I work with
 
-A real-time paper trading platform built with a university peer, combining a Next.js frontend with a Python/FastAPI backend.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-`Next.js` `FastAPI` `Python` `WebSockets`
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-- Multi-interval stock data API supporting 8 timeframes via both REST and WebSocket endpoints
-- Real-time candlestick and line charts with live WebSocket data feeds and automatic candle updates
-- Paper trading engine with live P&L tracking, spread calculation, and price-line visualisation
-- Asset search with intraday chart previews for discovered symbols
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## Tech
+### 🚀 Featured projects
 
-**Languages:** JavaScript · TypeScript · Python · HTML/CSS  
-**Frontend:** React 18 · Next.js  
-**Backend:** Node.js · Express · FastAPI · REST · WebSockets  
-**Data & infra:** Firebase Firestore · Docker · Git · Postman · Render
+**[SignalFM](https://github.com/Kelyan05/SignalFM)** · [Live demo ↗](https://signalfm-site.onrender.com)
+Full-stack music streaming platform with a real-time, event-driven **recommendation engine**. Every play, skip, and like becomes a weighted engagement signal that refreshes recommendations instantly. Server-side OAuth 2.0 (tokens never touch the client), custom React Hook architecture, and 63 functional tests.
+`React 18` · `Node.js` · `Express` · `Firebase Firestore` · `Spotify SDK` · `OAuth 2.0`
+
+**[Backlog Tactician](https://github.com/Kelyan05/backlog-tactician)** · 🚧 *Building now*
+Turns your gaming backlog into an **optimised weekly play plan** — connects to your Steam library, pulls how-long-to-beat data, and given your free hours schedules what to play to maximise variety and finish games you're close to completing. Models "what to play next" as an optimisation problem.
+`TypeScript` · `Node.js` · `PostgreSQL` · `Steam Web API` · `Docker` · `GitHub Actions`
+
+---
+
+### 📊 GitHub
+
+![Kelyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelyan05&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelyan05&layout=compact&hide_border=true)
+
+---
+
+*Currently sharpening: data structures & algorithms, PostgreSQL, and system design. Always happy to talk shop — reach out on [LinkedIn](https://www.linkedin.com/in/kelyan-djomo/).*
